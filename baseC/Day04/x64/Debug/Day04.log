@@ -1,0 +1,3 @@
+﻿  62_ClassDestructor.cpp
+C:\Source\study_C-_2023\Day04\62_ClassDestructor.cpp(59,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Day04.vcxproj -> C:\Source\study_C-_2023\Day04\x64\Debug\Day04.exe
