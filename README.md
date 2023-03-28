@@ -29,3 +29,9 @@ IoT 개발자 과정 C++ 학습
 - 클래스와 배열
 - this 포인터
 - 복사 생성자
+
+## Day06
+- const
+- friend
+- static
+- mutable
