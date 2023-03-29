@@ -33,9 +33,10 @@ IoT 개발자 과정 C++ 학습
 ## Day06
 - const
 - friend
+- static
+- mutable
 
 ## Day07
 - 함수의 오버라이딩
 - 가상함수
-- static
-- mutable
+
