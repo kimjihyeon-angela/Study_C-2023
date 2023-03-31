@@ -9,7 +9,7 @@ private :
 	int birthday;
 
 public:
-	Person(const char* aname, int abirthday) : birthday(abirthday)
+	Person(const char* aname, int abirthday) : birthday(abirthday) // 생성자 -> 초기화시키는 역할 => class에 무조건 있어야 함
 	{
 		strcpy(name, aname);
 	}
@@ -30,6 +30,10 @@ int main()
 
 	Person p3 = p2;
 	p3.ShowPerson();
+
+	Person p4("강감찬", 20001201);
+	p4 = p1;
+	p4.ShowPerson();
 
 	return 0;
 }
